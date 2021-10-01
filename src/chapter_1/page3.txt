@@ -1,0 +1,2 @@
+
+Java is a general-purpose programming language that’s used in all industries for almost any type of application. If you master it, your chances of getting employed as a software developer will be higher than if you specialize in some domain-specific programming languages. The Java language is object-oriented (OO), which allows you to easily re
