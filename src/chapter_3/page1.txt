@@ -1,0 +1,2 @@
+JRE (Java Runtime Environment): It is part of JDK but can be used independently to run any byte code (compiled java program).
+ It can be called as JVM implementation
