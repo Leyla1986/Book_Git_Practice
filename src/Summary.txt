@@ -1,0 +1,6 @@
+ Java API (Application Programming Interface) : Set of classes’ written using Java programming language which runs on JVM. 
+These classes will help programmers by providing standard methods like reading from the console,
+writing to the console, saving objects in data structure etc.
+[12:38 PM, 10/1/2021] Zeyneb Cybertek: I create file in gitHub and want to see this file in IntelliJ. IDEA
+
+FEtch Pull
