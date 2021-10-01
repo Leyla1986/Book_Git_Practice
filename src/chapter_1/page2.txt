@@ -1,0 +1,3 @@
+
+
+Java was developed by James Gosling from Sun Microsystems in 1995 as an object-oriented language for general-purpose business applications and for interactive, Web-based Internet applications. The goal was to provide a platform-independent alternative to C++. In other terms, it is architecturally neutral, which means that you can use Java to write a program that will run on any platform or device (operating system). Java program can run on a wide variety of computers because it does not execute instructions on a computer directly. Inste
