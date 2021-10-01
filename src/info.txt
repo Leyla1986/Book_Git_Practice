@@ -1,3 +1,5 @@
 
 
 In hear we can do commit and push after we want to ignor this file
+
+I can't do it beacuse first i commited and pushed
