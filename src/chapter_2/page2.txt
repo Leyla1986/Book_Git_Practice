@@ -1,0 +1,3 @@
+JDK (Java Development Kit): JDK contains JRE along with various development tools like Java libraries,
+ Java source compilers,
+ Java debuggers, bundling and deployment tools
